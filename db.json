@@ -1,0 +1,94 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "rollNum": "",
+            "firstName": "Ahmed",
+            "lastName": "Saleh",
+            "class": "",
+            "state": "1",
+            "pictureUrl": "hello",
+            "created": "2022-12-01",
+            "updated": "2022-12-03",
+            "userName": "Admin",
+            "password": "Admin",
+            "categorie": "admin"
+        },
+        {
+            "id": 2,
+            "rollNum": "r2022-02",
+            "firstName": "Muhammed",
+            "lastName": "Saleh",
+            "class": "class1",
+            "state": "1",
+            "pictureUrl": "hello",
+            "created": "2022-12-01",
+            "updated": "2022-12-03",
+            "userName": "std",
+            "password": "std",
+            "categorie": "std"
+        },
+        {
+            "id": 3,
+            "rollNum": "r2022-03",
+            "firstName": "Aziz",
+            "lastName": "Zahrani",
+            "class": "class2",
+            "state": "1",
+            "pictureUrl": "hello",
+            "created": "2022-12-01",
+            "updated": "2022-12-03",
+            "userName": "std",
+            "password": "std",
+            "categorie": "std"
+        },
+        {
+            "id": 4,
+            "rollNum": "r2022-03",
+            "firstName": "Yahya",
+            "lastName": "Asili",
+            "class": "class3",
+            "state": "0",
+            "pictureUrl": "hello",
+            "created": "2022-12-01",
+            "updated": "2022-12-03",
+            "userName": "std",
+            "password": "std",
+            "categorie": "std"
+        }
+    ],
+    "chatPosts": [
+        {
+            "id": 1,
+            "sender": 2,
+            "receiver": 3,
+            "message": "Hi,how are you",
+            "date": "2022-12-02",
+            "time": "10:00"
+        },
+        {
+            "id": 1,
+            "sender": 3,
+            "receiver": 2,
+            "message": "I'm good,just i have an exam today",
+            "date": "2022-12-02",
+            "time": "10:03"
+        },
+        {
+            "id": 1,
+            "sender": 1,
+            "receiver": 2,
+            "message": "Good morning,please take care of your world",
+            "date": "2022-12-02",
+            "time": "10:10"
+        },
+        {
+            "id": 1,
+            "sender": 2,
+            "receiver": 1,
+            "message": "Good morning, of course sir, thanks",
+            "date": "2022-12-02",
+            "time": "10:11"
+        }
+    ]
+}
