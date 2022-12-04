@@ -1,0 +1,1 @@
+# stroika_demo
