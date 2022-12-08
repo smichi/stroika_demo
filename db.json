@@ -684,22 +684,6 @@
             "message": "Another BLA bla ",
             "date": "2022-12-02",
             "time": "10:11"
-        },
-        {
-            "id": 9,
-            "sender": 3,
-            "receiver": 2,
-            "message": "Another BLA bla ",
-            "date": "2022-12-02",
-            "time": "10:11"
-        },
-        {
-            "id": 10,
-            "sender": 1,
-            "receiver": 4,
-            "message": "Another BLA bla ",
-            "date": "2022-12-02",
-            "time": "10:11"
         }
     ]
 }
